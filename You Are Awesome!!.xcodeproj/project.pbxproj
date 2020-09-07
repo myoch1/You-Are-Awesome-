@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		22665E122506E10300612118 /* You Are Awesome!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Are Awesome!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		22665E122506E10300612118 /* You Are Awesome!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Are Awesome!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22665E152506E10300612118 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22665E172506E10300612118 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		22665E192506E10300612118 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		22665E132506E10300612118 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				22665E122506E10300612118 /* You Are Awesome!!.app */,
+				22665E122506E10300612118 /* You Are Awesome!.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "You Are Awesome!!";
 			productName = "You Are Awesome!!";
-			productReference = 22665E122506E10300612118 /* You Are Awesome!!.app */;
+			productReference = 22665E122506E10300612118 /* You Are Awesome!.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yoch.You-Are-Awesome--";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "You Are Awesome!";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yoch.You-Are-Awesome--";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "You Are Awesome!";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
